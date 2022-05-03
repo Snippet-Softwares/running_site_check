@@ -37,5 +37,4 @@ public class URLCheckController {
         }
         return returnMessage;
     }
-
 }
